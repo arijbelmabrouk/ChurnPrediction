@@ -1,0 +1,30 @@
+# Models folder - contains trained models
+models/
+
+# Large datasets (optional - remove # to exclude CSV)
+# merged_dataset_VF03.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+.DS_Store
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/
