@@ -2,7 +2,7 @@
 models/
 
 # Large datasets (optional - remove # to exclude CSV)
-# merged_dataset_VF03.csv
+merged_dataset_VF03.csv
 
 # Python cache
 __pycache__/
