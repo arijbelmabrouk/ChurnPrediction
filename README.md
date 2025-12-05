@@ -1,4 +1,4 @@
-\# Churn Prediction ML Project
+# Churn Prediction ML Project
 
 
 
@@ -6,7 +6,7 @@ A machine learning project to predict customer churn using classification algori
 
 
 
-\## Features
+## Features
 
 \* Data preprocessing and feature engineering
 
@@ -18,7 +18,7 @@ A machine learning project to predict customer churn using classification algori
 
 
 
-\## Installation
+## Installation
 
 
 
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 
 
-\## Usage
+## Usage
 
 
 
@@ -94,7 +94,7 @@ Models are saved in `models/` but not included in the repo.
 
 
 
-\## Project Structure
+## Project Structure
 
 ```
 
@@ -118,7 +118,7 @@ ChurnPrediction/
 
 
 
-\## Dataset
+## Dataset
 
 
 
@@ -126,7 +126,7 @@ Dataset is not included. Use your own CSV with customer features and a churn lab
 
 
 
-\## Contributing
+## Contributing
 
 
 
@@ -142,7 +142,7 @@ Dataset is not included. Use your own CSV with customer features and a churn lab
 
 
 
-\## License
+## License
 
 
 
@@ -150,7 +150,7 @@ MIT License. See `LICENSE` for details.
 
 
 
-\## Author
+## Author
 
 
 
